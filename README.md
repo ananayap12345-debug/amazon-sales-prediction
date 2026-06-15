@@ -1,2 +1,2 @@
 #Live Demo
-https://amazon-sales-prediction-app-9ewsfr.streamlit.app
+https://ananayap12345-debug-amazon-sales-prediction-app-9ewsfr.streamlit.app/
